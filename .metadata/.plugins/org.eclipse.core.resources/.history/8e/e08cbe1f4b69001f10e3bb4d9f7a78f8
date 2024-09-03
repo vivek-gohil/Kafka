@@ -1,0 +1,5 @@
+package com.borntocode.main.service;
+
+public class KafkaMessagePublisher {
+
+}
